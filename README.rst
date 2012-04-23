@@ -15,23 +15,23 @@ Layers
 These are the layers. There is no all inclusive layer yet but if there
 is demand I will make one.
 
-New Businesses (Accommodation and Food Services): https://a.geoloqi.com/layer/description/Rgi
-New Businesses (Administrative and Support and Waste Management and Remediation Services): https://a.geoloqi.com/layer/description/Rge
-New Businesses (Agriculture, Forestry, Fishing and Hunting): https://a.geoloqi.com/layer/description/RgS
-New Businesses (Arts, Entertainment, and Recreation): https://a.geoloqi.com/layer/description/Rgh
-New Businesses (Construction): https://a.geoloqi.com/layer/description/RgV
-New Businesses (Educational Services): https://a.geoloqi.com/layer/description/Rgf
-New Businesses (Finance and Insurance): https://a.geoloqi.com/layer/description/Rga
-New Businesses (Health Care and Social Assistance): https://a.geoloqi.com/layer/description/Rgg
-New Businesses (Information): https://a.geoloqi.com/layer/description/Rg_
-New Businesses (Management of Companies and Enterprises): https://a.geoloqi.com/layer/description/Rgd
-New Businesses (Manufacturing): https://a.geoloqi.com/layer/description/RgW
-New Businesses (Mining, Quarrying, and Oil and Gas Extraction): https://a.geoloqi.com/layer/description/RgT
-New Businesses (Other Services (except Public Administration)): https://a.geoloqi.com/layer/description/Rgj
-New Businesses (Professional, Scientific, and Technical Services): https://a.geoloqi.com/layer/description/Rgc
-New Businesses (Public Administration): https://a.geoloqi.com/layer/description/Rgk
-New Businesses (Real Estate and Rental and Leasing): https://a.geoloqi.com/layer/description/Rgb
-New Businesses (Retail Trade): https://a.geoloqi.com/layer/description/RgY
-New Businesses (Transportation and Warehousing): https://a.geoloqi.com/layer/description/RgZ
-New Businesses (Utilities): https://a.geoloqi.com/layer/description/RgU
-New Businesses (Wholesale Trade): https://a.geoloqi.com/layer/description/RgX
+* New Businesses (Accommodation and Food Services): https://geoloqi.com/layer/Rgi
+* New Businesses (Administrative and Support and Waste Management and Remediation Services): https://geoloqi.com/layer/Rge
+* New Businesses (Agriculture, Forestry, Fishing and Hunting): https://geoloqi.com/layer/RgS
+* New Businesses (Arts, Entertainment, and Recreation): https://geoloqi.com/layer/Rgh
+* New Businesses (Construction): https://geoloqi.com/layer/RgV
+* New Businesses (Educational Services): https://geoloqi.com/layer/Rgf
+* New Businesses (Finance and Insurance): https://geoloqi.com/layer/Rga
+* New Businesses (Health Care and Social Assistance): https://geoloqi.com/layer/Rgg
+* New Businesses (Information): https://geoloqi.com/layer/Rg_
+* New Businesses (Management of Companies and Enterprises): https://geoloqi.com/layer/Rgd
+* New Businesses (Manufacturing): https://geoloqi.com/layer/RgW
+* New Businesses (Mining, Quarrying, and Oil and Gas Extraction): https://geoloqi.com/layer/RgT
+* New Businesses (Other Services (except Public Administration)): https://geoloqi.com/layer/Rgj
+* New Businesses (Professional, Scientific, and Technical Services): https://geoloqi.com/layer/Rgc
+* New Businesses (Public Administration): https://geoloqi.com/layer/Rgk
+* New Businesses (Real Estate and Rental and Leasing): https://geoloqi.com/layer/Rgb
+* New Businesses (Retail Trade): https://geoloqi.com/layer/RgY
+* New Businesses (Transportation and Warehousing): https://geoloqi.com/layer/RgZ
+* New Businesses (Utilities): https://geoloqi.com/layer/RgU
+* New Businesses (Wholesale Trade): https://geoloqi.com/layer/RgX
