@@ -13,22 +13,6 @@ six_months = timedelta(days=180)
 six_months_ago = date.today()-six_months
 message = '%s applied for their business licence on %s, they are located at: %s'
 
-def create_layers():
-    layer_list = None
-    with open('layers.json') as f:
-        layer_list = json.loads(f.read())
-        for index,layer in enumerate(layer_list['layers']):
-            res = geo.post('layer/create', {
-                'name': 'New Businesses (%s)' % layer['description'].strip(),
-                'key': str(layer['description']),
-                'description': 'Show new %s businesses.' % (
-                    layer['description'].strip().lower()
-                ),
-                'public': 1
-            })
-            layer_list['layers'][index]['layer_id'] = res['layer_id']
-    with open('new_layers.json', 'w') as f:
-        f.write(json.dumps(layer_list, indent=2))
 
 def update_all_layers():
     with open('layers.json') as f:
@@ -37,6 +21,7 @@ def update_all_layers():
             print layer['description']
             for naics in layer['naics_id']:
                 update_layer(layer['layer_id'], naics)
+
 
 def update_layer(layer_id, naics_id):
     res = requests.get(businesses_url % (naics_id, six_months_ago))
