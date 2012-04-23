@@ -11,7 +11,7 @@ businesses_url = \
     "http://api.civicapps.org/business-licenses/category/%s?since=%s"
 six_months = timedelta(days=180)
 six_months_ago = date.today()-six_months
-message = '%s applied for their business licence on %s, they are located at: %s'
+message = '%s applied for their business license on %s, they are located at: %s'
 
 
 def update_all_layers():
