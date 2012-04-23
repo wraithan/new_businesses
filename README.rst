@@ -9,10 +9,10 @@ into Geoloqi layers that one can subscribe to and get alerts when they
 are within ~3 blocks of a business that has applied for its business
 license in the last 6 months.
 
-.. image: https://github.com/wraithan/new_businesses/raw/master/screenshot.png
-
 Layers
 ------
+
+Map: https://github.com/wraithan/new_businesses/raw/master/screenshot.png
 
 These are the layers. There is no all inclusive layer yet but if there
 is demand I will make one.
