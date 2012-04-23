@@ -1,0 +1,3 @@
+requests
+dateutil
+geoloqi-python==12.101

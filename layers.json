@@ -1,0 +1,148 @@
+{
+  "layers": [
+    {
+      "layer_id": "RgS", 
+      "naics_id": [
+        "11"
+      ], 
+      "description": "Agriculture, Forestry, Fishing and Hunting"
+    }, 
+    {
+      "layer_id": "RgT", 
+      "naics_id": [
+        "21"
+      ], 
+      "description": "Mining, Quarrying, and Oil and Gas Extraction"
+    }, 
+    {
+      "layer_id": "RgU", 
+      "naics_id": [
+        "22"
+      ], 
+      "description": "Utilities"
+    }, 
+    {
+      "layer_id": "RgV", 
+      "naics_id": [
+        "23"
+      ], 
+      "description": "Construction"
+    }, 
+    {
+      "layer_id": "RgW", 
+      "naics_id": [
+        "31", 
+        "32", 
+        "33"
+      ], 
+      "description": "Manufacturing"
+    }, 
+    {
+      "layer_id": "RgX", 
+      "naics_id": [
+        "42"
+      ], 
+      "description": "Wholesale Trade"
+    }, 
+    {
+      "layer_id": "RgY", 
+      "naics_id": [
+        "44", 
+        "45"
+      ], 
+      "description": "Retail Trade"
+    }, 
+    {
+      "layer_id": "RgZ", 
+      "naics_id": [
+        "48", 
+        "49"
+      ], 
+      "description": "Transportation and Warehousing"
+    }, 
+    {
+      "layer_id": "Rg_", 
+      "naics_id": [
+        "51"
+      ], 
+      "description": "Information"
+    }, 
+    {
+      "layer_id": "Rga", 
+      "naics_id": [
+        "52"
+      ], 
+      "description": "Finance and Insurance"
+    }, 
+    {
+      "layer_id": "Rgb", 
+      "naics_id": [
+        "53"
+      ], 
+      "description": "Real Estate and Rental and Leasing"
+    }, 
+    {
+      "layer_id": "Rgc", 
+      "naics_id": [
+        "54"
+      ], 
+      "description": "Professional, Scientific, and Technical Services"
+    }, 
+    {
+      "layer_id": "Rgd", 
+      "naics_id": [
+        "55"
+      ], 
+      "description": "Management of Companies and Enterprises"
+    }, 
+    {
+      "layer_id": "Rge", 
+      "naics_id": [
+        "56"
+      ], 
+      "description": "Administrative and Support and Waste Management and Remediation Services"
+    }, 
+    {
+      "layer_id": "Rgf", 
+      "naics_id": [
+        "61"
+      ], 
+      "description": "Educational Services"
+    }, 
+    {
+      "layer_id": "Rgg", 
+      "naics_id": [
+        "62"
+      ], 
+      "description": "Health Care and Social Assistance"
+    }, 
+    {
+      "layer_id": "Rgh", 
+      "naics_id": [
+        "71"
+      ], 
+      "description": "Arts, Entertainment, and Recreation"
+    }, 
+    {
+      "layer_id": "Rgi", 
+      "naics_id": [
+        "72"
+      ], 
+      "description": "Accommodation and Food Services"
+    }, 
+    {
+      "layer_id": "Rgj", 
+      "naics_id": [
+        "81"
+      ], 
+      "description": "Other Services (except Public Administration)"
+    }, 
+    {
+      "layer_id": "Rgk", 
+      "naics_id": [
+        "92"
+      ], 
+      "description": "Public Administration"
+    }
+  ]
+}
